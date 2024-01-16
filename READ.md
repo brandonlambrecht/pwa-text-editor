@@ -12,7 +12,13 @@ Technologies Used include:
 - Babel
 - Render
 
-Follow link for GitHub repository [pwa-text-editor](https://github.com/brandonlambrecht/pwa-text-editor)![pwa](./images/jate-screenshot.png)
+## Deploy
+
+Follow the link to deploy the application on Render [pwa-text-editor deployment](https://pwa-text-editor-lqji.onrender.com)!
+
+Follow link for GitHub repository [pwa-text-editor repository](https://github.com/brandonlambrecht/pwa-text-editor)
+
+![pwa](./images/jate-screenshot.png)
 
 ## License
 
